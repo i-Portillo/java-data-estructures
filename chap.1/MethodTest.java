@@ -11,7 +11,7 @@ public class MethodTest
     }
 
     // Declaración del método
-    public static int main (int x, int y)
+    public static int min (int x, int y)
     {
         return x < y ? x : y;
     }
